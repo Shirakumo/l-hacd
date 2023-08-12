@@ -9,6 +9,7 @@
   :source-control (:git "https://github.com/shirakumo/l-hacd.git")
   :serial T
   :components ((:file "package")
+               (:file "aabb")
                (:file "decomposition")
                (:file "documentation"))
   :depends-on (:manifolds
