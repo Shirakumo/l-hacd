@@ -4,9 +4,9 @@
   :author "Yukari Hafner <shinmera@tymoon.eu>"
   :maintainer "Yukari Hafner <shinmera@tymoon.eu>"
   :description "Tests for the l-HACD system."
-  :homepage "https://shirakumo.github.io/l-hacd/"
-  :bug-tracker "https://github.com/shirakumo/l-hacd/issues"
-  :source-control (:git "https://github.com/shirakumo/l-hacd.git")
+  :homepage "https://shirakumo.org/docs/l-hacd/"
+  :bug-tracker "https://shirakumo.org/project/l-hacd/issues"
+  :source-control (:git "https://shirakumo.org/project/l-hacd.git")
   :serial T
   :components ((:file "test"))
   :depends-on (:l-hacd :cl-wavefront :parachute)
